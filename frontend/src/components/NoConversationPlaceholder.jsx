@@ -1,9 +1,9 @@
 import React from 'react'
 
-function NoConversationPkaceholder() {
+function NoConversationPlaceholder() {
   return (
-    <div>NoConversationPkaceholder</div>
+    <div>NoConversationPlaceholder</div>
   )
 }
 
-export default NoConversationPkaceholder
+export default NoConversationPlaceholder;
